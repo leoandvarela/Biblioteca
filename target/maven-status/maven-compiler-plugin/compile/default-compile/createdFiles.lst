@@ -1,0 +1,12 @@
+br\com\senac\JPA\Usuario.class
+br\com\senac\interfaces\TelaLogin.class
+br\com\senac\interfaces\RelatorioLivros$1.class
+br\com\senac\interfaces\TelaCadastrar.class
+br\com\senac\interfaces\TelaCadastrar$2.class
+br\com\senac\interfaces\TelaLogin$3.class
+br\com\senac\JPA\UsuarioDAO.class
+br\com\senac\interfaces\TelaCadastrar$1.class
+br\com\senac\interfaces\RelatorioLivros.class
+br\com\senac\interfaces\TelaLogin$2.class
+br\com\senac\interfaces\TelaLogin$1.class
+br\com\senac\JPA\JPAUtil.class
